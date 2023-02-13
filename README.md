@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **atharva-bhatnagar/atharva-bhatnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ## I am Atharav Bhatnagar,welcome to my github account
 
-# I hope you can find something interesting in my repositories, here are some suggestions:-
+### I hope you can find something interesting in my repositories, here are some suggestions:-
